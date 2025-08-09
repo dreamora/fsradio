@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=FSRadio Fernbedienung
+Comment=Frontier-Silicon / UNDOK Radio steuern
+Exec=%PROJ_DIR%/venv/python3 %PROJ_DIR%/fsradio_gui.py
+Icon=multimedia-volume-control
+Terminal=false
+Categories=AudioVideo;GTK;
